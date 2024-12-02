@@ -8,8 +8,7 @@ git clone https://github.com/nickpraschma/data_processing
 ```
 
 ### 2. Run the Code
-Clone this repository to your local machine using the following command:
-
+After cloning the repository, you can run the code by executing the Python file.
 ```bash
 python in_memory_db.py
 ```
