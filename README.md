@@ -3,12 +3,14 @@
 ### 1. Clone the Repository
 Clone this repository to your local machine using the following command:
 
-``bash``
-git clone <repository-url>
+```bash
+git clone https://github.com/nickpraschma/data_processing
+```
 
-### 2. Clone the Repository
+### 2. Run the Code
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone <repository-url>
+python in_memory_db.py
+```
 
